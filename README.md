@@ -1,6 +1,6 @@
 
 
-- 🌱 I’m currently learning **Typescript, Jquery**
+- 🌱 I’m currently learning **Php, SQL**
 
 - 👨‍💻 All of my projects are available at [https://mstfecedev.netlify.app/](https://mstfecedev.netlify.app/)
 
