@@ -1,6 +1,6 @@
 
 
-- 🌱 I’m currently learning **Php, SQL**
+- 🌱 I’m currently learning **Php, SQL, Next.js**
 
 - 👨‍💻 All of my projects are available at [https://mstfecedev.netlify.app/](https://mstfecedev.netlify.app/)
 
