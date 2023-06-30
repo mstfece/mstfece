@@ -1,6 +1,5 @@
 # 💫 About Me:
-  I’
-🌱 I’m currently learning Php, Next.js<br>
+🌱 I’m currently learning Php, Next.js <br>
 👨‍💻 All of my projects are available on my website: https://mstfecedev.netlify.app/
 
 
